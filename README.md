@@ -10,5 +10,5 @@ Tech Stack Used:-
 ReactJS,
 HTML,
 CSS,
-JavaScript
+JavaScript.
 
