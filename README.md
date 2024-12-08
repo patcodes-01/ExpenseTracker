@@ -6,10 +6,9 @@ Add Income: Record your earnings to keep track of total income.
 Track Expenses: Log spending details with a task name for better categorization and tracking.
 View Balance: Automatically calculates the remaining balance based on income and expenses
 
-Tech Stack:
-Frontend:
-ReactJS
-HTML
-CSS
+Tech Stack Used:-
+ReactJS,
+HTML,
+CSS,
 JavaScript
 
