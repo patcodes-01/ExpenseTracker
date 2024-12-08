@@ -1,5 +1,5 @@
-Expense Tracker Application:
-A simple and user-friendly web application to manage your finances efficiently. Built using ReactJS, HTML, CSS, and JavaScript, the app allows users to record income, monitor expenses associated with task names, and view the current balance.
+SpendWise:
+A simple and user-friendly Expense Tracker web application to manage your finances efficiently. Built using ReactJS, HTML, CSS, and JavaScript, the app allows users to record income, monitor expenses associated with task names, and view the current balance.
 
 Features:
 Add Income: Record your earnings to keep track of total income.
